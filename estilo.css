@@ -1,6 +1,5 @@
-body{
-    background-color: white;
-    margin: 50px;
+body, #fondo{
+    background-color: powderblue;
 }
 
 img{
@@ -14,8 +13,16 @@ h4, p{
 }
 
 #habilidades, #educacion{
-    color: black;
+   /* color: black;
+*/
+}
 
+hr, #linea {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%px;
 }
 
 ul {
